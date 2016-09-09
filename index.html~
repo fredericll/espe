@@ -31,9 +31,9 @@
 					<nav id="menu">
 						<ul class="links">
 							<li><a href="index.html">Accueil</a></li>
-							<li><a href="sequence.html">Séquences</a></li>
-							<li><a href="etlv1.html">ETLV1 (Anglais)</a></li>
-							<li><a href="ap.html">Accompagnement personnalisé</a></li>
+							<li><a href="landing.html">Séquences</a></li>
+							<li><a href="generic.html">ETLV1 (Anglais)</a></li>
+							<li><a href="elements.html">Accompagnement personnalisé</a></li>
 						</ul>
 						<ul class="actions vertical">
 							<li><a href="#" class="button special fit">Get Started</a></li>
