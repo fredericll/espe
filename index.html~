@@ -34,10 +34,10 @@
 							<li><a href="sequences.html">Séquences</a></li>
 							<li><a href="etlv1.html">ETLV1 (Anglais)</a></li>
 							<li><a href="ap.html">Accompagnement personnalisé</a></li>
+							<li><a href="espe.html">Travaux ESPE</a></li>
 						</ul>
 						<ul class="actions vertical">
 							<li><a href="#" class="button special fit">Get Started</a></li>
-							<li><a href="#" class="button fit">Log In</a></li>
 						</ul>
 					</nav>
 
@@ -67,7 +67,7 @@
 										<img src="images/pic01.png" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="landing.html" class="link">Séquences</a></h3>
+										<h3><a href="sequences.html" class="link">Séquences</a></h3>
 										<p>Cours et TP Spécialité SIN</p>
 									</header>
 								</article>
@@ -76,7 +76,7 @@
 										<img src="images/pic02.png" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="landing.html" class="link">ETLV1</a></h3>
+										<h3><a href="etlv1.html" class="link">ETLV1</a></h3>
 										<p>STI2D en anglais</p>
 									</header>
 								</article>
@@ -85,8 +85,17 @@
 										<img src="images/pic03.png" alt="" />
 									</span>
 									<header class="major">
-										<h3><a href="landing.html" class="link">Accompagement Personnalisé</a></h3>
+										<h3><a href="ap.html" class="link">Accompagement Personnalisé</a></h3>
 										<p>Méthodologie, soutien, orientation</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic04.png" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="ap.html" class="link">Travaux ESPE</a></h3>
+										<p>Réalisations et travaux réalisés dans le cadre de la formation.</p>
 									</header>
 								</article>
 							</section>
@@ -95,7 +104,7 @@
 							<section id="two">
 								<div class="inner">
 									<header class="major">
-										<h2>Deuxième année ESPE</h2>
+										<h2>Deuxième année ESPE - Le Mans</h2>
 									</header>
 									<p>Après avoir été reçu au concours du CAPET, me voici à l'ESPE pour me former au métier d'enseignement.<br/>
 										La vocation de ce site est de partager le travail de l'année, en particulier les séquences réalisées.									
@@ -110,26 +119,6 @@
 				<!-- Contact -->
 					<section id="contact">
 						<div class="inner">
-							<section>
-								<form method="post" action="#">
-									<div class="field half first">
-										<label for="name">Nom</label>
-										<input type="text" name="name" id="name" />
-									</div>
-									<div class="field half">
-										<label for="email">Email</label>
-										<input type="text" name="email" id="email" />
-									</div>
-									<div class="field">
-										<label for="message">Message</label>
-										<textarea name="message" id="message" rows="6"></textarea>
-									</div>
-									<ul class="actions">
-										<li><input type="submit" value="Envoyer" class="special" /></li>
-										<li><input type="reset" value="Anuler" /></li>
-									</ul>
-								</form>
-							</section>
 							<section class="split">
 								<section>
 									<div class="contact-method">
@@ -158,10 +147,7 @@
 						<div class="inner">
 							<ul class="icons">
 								<li><a href="https://twitter.com/tech2col" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
-								<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
-								<li><a href="#" class="icon alt fa-github"><span class="label">GitHub</span></a></li>
-								<li><a href="#" class="icon alt fa-linkedin"><span class="label">LinkedIn</span></a></li>
+								<li><a href="https://www.facebook.com/Lyc%C3%A9e-Jean-de-Lattre-de-Tassigny-87100192687/?fref=ts" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
 							</ul>
 							<ul class="copyright">
 								<li>&copy; Frédéric LLANTE</li>
