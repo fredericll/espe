@@ -39,7 +39,6 @@
 						</ul>
 						<ul class="actions vertical">
 							<li><a href="#" class="button special fit">Démarrer</a></li>
-							<li><a href="#" class="button fit">Log In</a></li>
 						</ul>
 					</nav>
 
@@ -48,10 +47,10 @@
 					<section id="banner" class="style2">
 						<div class="inner">
 							<span class="image">
-								<img src="images/etlv.png" alt="" />
+								<img src="images/ap.png" alt="" />
 							</span>
 							<header class="major">
-								<h1>Enseignement technologique en langue vivante</h1>
+								<h1>Accompagnement personnalisé</h1>
 							</header>
 							<div class="content">
 								<p>Sur cette page les séquences pédagogiques que j'ai exploitées au long de l'année.<br/>
