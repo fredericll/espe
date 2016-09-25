@@ -75,6 +75,22 @@
 								</div>
 							</section>
 							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h2>Self powered radio</h2>
+						<!-- Two -->
+									</header>
+									<p><a href="etlv1/2/self_powered_radio - séquence.pdf" target="_blank">La séquence</a></p>
+									<p><a href="https://framacalc.org/=ETLV-Sin2Lattre" target="_blank" >Dictionnaire collaboratif</a></p>
+									<video controls width="400" height="300">
+              							<source src="etlv1/2/FR160.mp4" type="video/mp4">
+              							<a href="etlv1/2/FR160.mp4" target="_blank">La vidéo de lancement</a>
+            					</video>
+            					<p><a href="etlv1/2/self-powered_radio_manual - élève.pdf" target="_blank">Manuel élève (français)</a></p>
+            					<p><a href="etlv1/2/self-powered_radio_manual - professeur" target="_blank">Ressource professeur (anglais)</a></p>
+								</div>
+							</section>							
+							<section id="one">
 							
 								<div class="inner">
 									<header class="major">
@@ -83,10 +99,12 @@
 									</header>
 									<h3>Supports</h3>
 									<p>Séquence produite par la professeure d'anglais.</p>
-									<p><a href="etlv1/1/POLLUTION2.pdf" >Supports</a></p>
-									<p><a href="etlv1/1/crossword.pdf" >Crossword</a></p>
+									<p><a href="etlv1/1/POLLUTION2.pdf" target="_blank">Supports</a></p>
+									<p><a href="etlv1/1/crossword.pdf" target="_blank">Crossword</a></p>
 								</div>
 							</section>
+							
+							
 							<section id="one">
 								<div class="inner">
 									<header class="major">
