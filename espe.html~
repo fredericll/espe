@@ -66,6 +66,70 @@
 							<section id="one">
 								<div class="inner">
 									<header class="major">
+										<h2>Fabrication d'un objet qui bouge : héliostat</h2>
+						<!-- Two -->
+									</header>
+
+									<p>L'héliostat est un dispositif qui suit la course du soleil. Voici une réalisation réalisée sur base d'arduino Uno.</p>
+									<iframe width="560" height="315" src="https://www.youtube.com/embed/8zFGd6adET4" frameborder="0" allowfullscreen></iframe>
+									<p><a href="espe/heliostat.ino" >Fichier arduino</a></p>
+								</div>
+							</section>
+							
+
+
+					</div>
+					
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h2>La balance</h2>
+						<!-- Two -->
+									</header>
+
+									<H2>Schéma cinématique 3D</H2>
+									<embed src="espe/2016-10-21_1550.swf" width="500px" height="300px"> <br>
+									<a href="espe/schéma cinématique balance.omc" >Fichier OpenMeca</a><br>
+									
+									<h2><a href="espe/feuille de calcul balance.odt">Feuille de calcul</a></h2>
+									
+									
+								</div>
+							</section>
+							
+
+
+					</div>
+					
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h2>Contexte d'exercice</h2>
+						<!-- Two -->
+									</header>
+									<H2>Séance 3</H2>									
+									<H2>Séance 2</H2>
+									<H2>Séance 1</H2>
+									
+								</div>
+							</section>
+							
+
+
+					</div>
+					
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
 										<h2>Titre</h2>
 						<!-- Two -->
 									</header>
@@ -111,6 +175,7 @@
 							<ul class="icons">
 								<li><a href="https://twitter.com/tech2col" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
 								<li><a href="https://www.facebook.com/Lyc%C3%A9e-Jean-de-Lattre-de-Tassigny-87100192687/?fref=ts" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+								<li><a href="http://www.pearltrees.com/fredericll/ressources-technologie-sti2d/"><img class="icon" src="images/pearltrees.png" alt="pearltrees"></li>
 							</ul>
 							<ul class="copyright">
 								<li>&copy; Frédéric LLANTE</li>

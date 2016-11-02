@@ -1,0 +1,25 @@
+<!DOCTYPE openMecaFile>
+<system>
+ <GlobalVar Echelle_Vit="1" SolverOption_AnnulerInertie="0" Echelle="0.04" SolverOption_EquilibreStatic ="0" Echelle_Acc="1" sceneCenterX="0" sceneCenterY="0" sceneCenterZ="0" SolverTypeIntegration="6" SolverOption_CheckPhase="0" Echelle_Force="1" Bati="Bati" AxisVisible="1" GrabForce="1" SolverTypeSolver="0" simulStep="0.001" Echelle_Torque="1" Echelle_VitRot="1" sceneRadius="0.5" gAccX="0" gAccY="0" gAccZ="0" simulEndTime="0" />
+ <SE>
+  <SE_1 centerMassY="0" InertiaExtraDiagZ="0" BColor="214" centerMassZ="0" InertiaDiagX="0" RColor="41" InertiaDiagY="0" Mass="0" InertiaDiagZ="0" Name="Bati" GColor="107" InertiaExtraDiagX="0" centerMassX="0" InertiaExtraDiagY="0" />
+  <SE_2 centerMassY="0" InertiaExtraDiagZ="0" BColor="0" centerMassZ="0" InertiaDiagX="0" RColor="85" InertiaDiagY="0" Mass="0" InertiaDiagZ="0" Name="Contre_fleau" GColor="0" InertiaExtraDiagX="0" centerMassX="0" InertiaExtraDiagY="0" />
+  <SE_3 centerMassY="0" InertiaExtraDiagZ="0" BColor="0" centerMassZ="0" InertiaDiagX="0" RColor="255" InertiaDiagY="0" Mass="0" InertiaDiagZ="0" Name="Fleau" GColor="0" InertiaExtraDiagX="0" centerMassX="0" InertiaExtraDiagY="0" />
+  <SE_4 centerMassY="0" InertiaExtraDiagZ="0" BColor="127" centerMassZ="0" InertiaDiagX="0" RColor="85" InertiaDiagY="0" Mass="0" InertiaDiagZ="0" Name="Tige_A" GColor="0" InertiaExtraDiagX="0" centerMassX="0" InertiaExtraDiagY="0" />
+  <SE_5 centerMassY="0" InertiaExtraDiagZ="0" BColor="255" centerMassZ="0" InertiaDiagX="0" RColor="85" InertiaDiagY="0" Mass="0" InertiaDiagZ="0" Name="Tige_B" GColor="0" InertiaExtraDiagX="0" centerMassX="0" InertiaExtraDiagY="0" />
+ </SE>
+ <Liaison/>
+ <PieceTige/>
+ <PieceGeom/>
+ <Point/>
+ <Traj/>
+ <Vit/>
+ <VitRot/>
+ <Acc/>
+ <Force/>
+ <Torque/>
+ <MotorLaw/>
+ <ReactionLiaison/>
+ <DeplacementLiaison/>
+ <RotationLiaison/>
+</system>
