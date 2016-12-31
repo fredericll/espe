@@ -32,7 +32,7 @@
 					<nav id="menu">
 						<ul class="links">
 							<li><a href="index.html">Accueil</a></li>
-							<li><a href="sequence.html">Séquences</a></li>
+							<li><a href="sequences.html">Séquences</a></li>
 							<li><a href="etlv1.html">ETLV1 (Anglais)</a></li>
 							<li><a href="ap.html">Accompagnement personnalisé</a></li>
 							<li><a href="espe.html" >Travaux ESPE</a></li>
@@ -66,62 +66,48 @@
 							<section id="one">
 								<div class="inner">
 									<header class="major">
+										<h2>Port-Folio de contexte d'exercice</h2>
+						<!-- Two -->
+									</header>
+									<p><a href="espe/Port folio - contexte d'exercice.pdf" >Fichier arduino</a></p>
+								</div>
+							</section>
+							
+
+
+					</div>					
+					
+					<div id="main">
+
+						<!-- One -->
+							<section id="one">
+								<div class="inner">
+									<header class="major">
 										<h2>Fabrication d'un objet qui bouge : héliostat</h2>
 						<!-- Two -->
 									</header>
 
 									<p>L'héliostat est un dispositif qui suit la course du soleil. Voici une réalisation réalisée sur base d'arduino Uno.</p>
-									<iframe width="560" height="315" src="https://www.youtube.com/embed/8zFGd6adET4" frameborder="0" allowfullscreen></iframe>
-									<p><a href="espe/heliostat.ino" >Fichier arduino</a></p>
+									<p><iframe width="560" height="315" src="https://www.youtube.com/embed/YYp9kMEON68" frameborder="0" allowfullscreen></iframe></p>
+									<p><a href="espe/Héliostat/heliostat.ino" >Fichier arduino</a></p>
+									<p><a href="espe/Héliostat/présentation héliostat 2.pdf" >Présentation</a></p>
+									<p><a href="espe/Héliostat/SupportEnseignement_JMGoutier_FLante.pdf" >Dossier pédagogique</a></p>
 								</div>
 							</section>
-							
-
-
 					</div>
 					
 					<div id="main">
-
-						<!-- One -->
 							<section id="one">
 								<div class="inner">
 									<header class="major">
 										<h2>La balance</h2>
-						<!-- Two -->
 									</header>
 
 									<H2>Schéma cinématique 3D</H2>
-									<embed src="espe/2016-10-21_1550.swf" width="500px" height="300px"> <br>
-									<a href="espe/schéma cinématique balance.omc" >Fichier OpenMeca</a><br>
-									
-									<h2><a href="espe/feuille de calcul balance.odt">Feuille de calcul</a></h2>
-									
-									
+									<p><embed src="espe/Balance/2016-10-21_1550.swf" width="500px" height="300px"> </p>
+									<p><a href="espe/Balance/feuille de calcul balance v2.odt">Feuille de calcul</a></p>								
 								</div>
 							</section>
-							
-
-
-					</div>
-					
-					<div id="main">
-
-						<!-- One -->
-							<section id="one">
-								<div class="inner">
-									<header class="major">
-										<h2>Contexte d'exercice</h2>
-						<!-- Two -->
-									</header>
-									<H2>Séance 3</H2>									
-									<H2>Séance 2</H2>
-									<H2>Séance 1</H2>
-									
-								</div>
-							</section>
-							
-
-
 					</div>
 					
 					<div id="main">
