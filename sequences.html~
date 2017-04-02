@@ -82,6 +82,22 @@
 							<section id="one">
 								<div class="inner">
 									<header class="major">
+									<h2>Séquence 6 : les capteurs</h2>
+									</header>
+									<h3>Préambule</h3>
+									<p>J'ai réalisé cette séquence sur la base des données de cours des années antérieures avec l'objectif de dynamiser le travail des élèves.</p>
+									<p>Dans le cadre TP, la séquence est associée à la <a href="sequences/6/Projet 2016-2017.pdf">démarche de projet</a>.</p>
+									<h3>La séquence</h3>
+									<p><a href="sequences/6/Les capteurs - séquence.pdf" >La séquence</a></p>									
+									<h3>Les séances</h3>
+									<p><a href="sequences/5/Les capteurs - élève - correction v2.pdf" >Support élève</a></p>
+								</div>
+							</section>
+							
+														
+							<section id="one">
+								<div class="inner">
+									<header class="major">
 									<h2>Séquence 5 : Une interface de puissance, le transistor</h2>
 									</header>
 									<h3>Préambule</h3>
@@ -96,7 +112,7 @@
 									<p><a href="sequences/5/Le Transistor - évaluation - correction..pdf" >L'évaluation</a></p>
 									<h3>Les TP</h3>
 									<p><a href="sequences/5/TP4_Interface de puissance.zip" >TP4 - Interface de puissance</a></p>
-									<p><a href="sequences/5/Eval2_Arduino.zip" >Evaluation 2 TP </a></p>
+									<p><a href="sequences/5/Eva2_Arduino.zip" >Evaluation 2 TP </a></p>
 								</div>
 							</section>						
 						
