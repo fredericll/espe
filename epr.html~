@@ -1,0 +1,155 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>&Eacute;crit Personnel Réflexif</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" href="images/epr.ico" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+				<!-- Note: The "styleN" class below should match that of the banner element. -->
+					<header id="header" class="alt style2">
+						<a href="index.html" class="logo"><strong>Forty</strong> <span>by HTML5 UP</span></a>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Accueil</a></li>
+							<li><a href="epr.html">&Eacute;crit Personnel Réflexif</a></li>
+							<li><a href="sequences.html">Séquences</a></li>
+							<li><a href="etlv1.html">ETLV1 (Anglais)</a></li>
+							<li><a href="ap.html">Accompagnement personnalisé</a></li>
+							<li><a href="espe.html" >Travaux ESPE</a></li>
+						</ul>
+						<ul class="actions vertical">
+							<li><a href="#" class="button special fit">Démarrer</a></li>
+							<li><a href="#" class="button fit">Log In</a></li>
+						</ul>
+					</nav>
+
+				<!-- Banner -->
+				<!-- Note: The "styleN" class below should match that of the header element. -->
+					<section id="banner" class="style2">
+						<div class="inner">
+							<span class="image">
+								<img src="images/epr.png" alt="" />
+							</span>
+							<header class="major">
+								<h1>L'&Eacute;crit Réflexif Personnel</h1>
+							</header>
+							<div class="content">
+								<p>Sur cette page le document et les annexes.</p>
+							</div>
+						</div>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+						
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+										<h2><a href="epr/Frédéric LLANTE - EPR 2017.pdf" target="_NEW">Lien vers l'écrit</a></h2>
+						<!-- Two -->
+									</header>
+							</section>
+							
+
+
+						<!-- One -->
+						
+							<section id="one">
+								<div class="inner">
+									<header class="major">
+									<h2>Les annexes</h2>
+									</header>
+									<h3>Les articles</h3>
+									<p><a href="epr/annexes/Invention de l'adolescence.pdf" target="_NEW">Invention de l'adolescence</a></p>
+									<p><a href="epr/annexes/lagrandeinvazionbnpptbp.pdf" target="_NEW" >La grande invazion</a></p>
+									<p><a href="epr/annexes/rapport-ceser-jeunes_2011.pdf" target="_NEW" >Rapport CESER jeunes 2011 (Bretagne)</a></p>
+									<p><a href="epr/annexes/konbini - la génération Z.pdf" target="_NEW" >La génération Z</a></p>
+									<h3>Les infographies</h3>
+									<p><a href="epr/annexes/génération.svg" target="_NEW" >La succession des générations</a></p>
+									<p><a href="epr/annexes/intelligence multiple.svg" target="_NEW" >Les intelligences multiples</a></p>
+									<p><a href="epr/annexes/7 profils.svg" target="_NEW" >Les sept profils</a></p>
+									<p><a href="epr/annexes/cône expérience.svg" target="_NEW" >Le cône d'expérience</a></p>
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Contact -->
+					<section id="contact">
+						<div class="inner">
+							<section class="split">
+								<section>
+									<div class="contact-method">
+										<span class="icon alt fa-envelope"></span>
+										<h3>Email</h3>
+										<a href="#">frederic.llante@ac-nantes.fr</a>
+									</div>
+								</section>
+								<section>
+								</section>
+								<section>
+									<div class="contact-method">
+										<span class="icon alt fa-home"></span>
+										<h3>LGT Jean de Lattre de Tassigny</h3>
+										<span>165 rue Hubert Cailler<br />
+										BP 821<br />
+										85021 La Roche-sur-Yon Cedex</span>
+									</div>
+								</section>
+							</section>
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							<ul class="icons">
+								<li><a href="https://twitter.com/sin2lattre" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a href="https://www.facebook.com/Lyc%C3%A9e-Jean-de-Lattre-de-Tassigny-87100192687/?fref=ts" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+								<li><a href="http://www.pearltrees.com/fredericll/ressources-technologie-sti2d/"><img class="icon" src="images/pearltrees.png" alt="pearltrees"></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Frédéric LLANTE</li>
+								<li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+								
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

@@ -1,0 +1,5 @@
+[autorun] 
+ShellExecute=index.html
+label=Mémoire EPR 
+shell=start 
+shell\start\command=index.html 

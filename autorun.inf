@@ -1,0 +1,6 @@
+[autorun] 
+ShellExecute=index.html
+label=Mémoire EPR 
+shell=start 
+shell\start\ShellExecute=index.html
+icon=images\epr.ico
